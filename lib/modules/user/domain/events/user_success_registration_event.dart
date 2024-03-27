@@ -1,0 +1,3 @@
+class UserSuccessRegistrationEvent {
+  const UserSuccessRegistrationEvent();
+}

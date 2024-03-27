@@ -1,0 +1,1 @@
+enum ActionOpenMain { openDirectMain, backToMain }

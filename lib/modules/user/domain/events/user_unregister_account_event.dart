@@ -1,0 +1,3 @@
+class UserUnregisterAccountEvent {
+  const UserUnregisterAccountEvent();
+}

@@ -1,0 +1,24 @@
+fastlane_version "2.212.0"
+
+default_platform :ios
+
+lane :build do |options|
+  xcodes(
+    select_for_current_build_only: true
+  )
+  update_project_team(
+    path: "Runner.xcodeproj",
+    teamid: options[:team_id]
+  )
+  update_app_identifier(
+    plist_path: "Runner/Info.plist",
+    app_identifier: options[:app_id]
+  )
+  build_ios_app(
+    scheme: options[:ios_scheme],
+    silent: true,
+    clean: true,
+    xcargs: "-allowProvisioningUpdates",
+    export_method: options[:ios_export_method]
+  )
+end

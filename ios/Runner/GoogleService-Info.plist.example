@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808197216812-asnc44rkt38j9hc9ci1svb4eticotcah.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808197216812-asnc44rkt38j9hc9ci1svb4eticotcah</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>808197216812-18jjqb91s28gbksoahq2ocd6kl1m5j25.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqtEVEvZlNmbZuXR9FelilKluB9nP7dG8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808197216812</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sugamobile.santapocket.loc</string>
+	<key>PROJECT_ID</key>
+	<string>santapocket-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>santapocket-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808197216812:ios:281173c079d00ed2170f89</string>
+	<key>DATABASE_URL</key>
+	<string>https://santapocket-dev.firebaseio.com</string>
+</dict>
+</plist>

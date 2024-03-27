@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "808197216812",
+    "firebase_url": "https://santapocket-dev.firebaseio.com",
+    "project_id": "santapocket-dev",
+    "storage_bucket": "santapocket-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808197216812:android:18e106f4dd68c30c170f89",
+        "android_client_info": {
+          "package_name": "com.sugamobile.santapocket.agent.loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808197216812-18jjqb91s28gbksoahq2ocd6kl1m5j25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.agent.loc",
+            "certificate_hash": "a80a773da9447ae83a29581ed71ad2e3f11e0f22"
+          }
+        },
+        {
+          "client_id": "808197216812-o1o72n80ct19anrmiq3r513bnf6n4ucp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.agent.loc",
+            "certificate_hash": "53003a894d88c25a25bff4d4112eb05a344517ee"
+          }
+        },
+        {
+          "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPwrIQ-o5woOPt7YhEyBpM4yAAXE72-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808197216812-a44vqte8nn6b5ddgl84r1mb52hvtldvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re",
+                "app_store_id": "253252"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808197216812:android:c6ce1c04e7c074c1170f89",
+        "android_client_info": {
+          "package_name": "com.sugamobile.santapocket.agent.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808197216812-1uktdsvi1ssu0o10q1buokeh785itmct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.agent.stg",
+            "certificate_hash": "ce2b1635409ae53b21fd7e5edb18cd71ddd65ff4"
+          }
+        },
+        {
+          "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPwrIQ-o5woOPt7YhEyBpM4yAAXE72-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808197216812-a44vqte8nn6b5ddgl84r1mb52hvtldvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re",
+                "app_store_id": "253252"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808197216812:android:3c74147ba7cbee03170f89",
+        "android_client_info": {
+          "package_name": "com.sugamobile.santapocket.loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808197216812-vlpovqo0a649vmkhtv60vov62t2go50b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.loc",
+            "certificate_hash": "aeb3ed871cc0be8cba3fe169b480f0b28c402868"
+          }
+        },
+        {
+          "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPwrIQ-o5woOPt7YhEyBpM4yAAXE72-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808197216812-a44vqte8nn6b5ddgl84r1mb52hvtldvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re",
+                "app_store_id": "253252"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808197216812:android:102c84b2a104e11e170f89",
+        "android_client_info": {
+          "package_name": "com.sugamobile.santapocket.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808197216812-876jbfpo5e9167e0ol9hadt7utb76ggu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.stg",
+            "certificate_hash": "4039afc281cf08930107733a5a321a276d1ec813"
+          }
+        },
+        {
+          "client_id": "808197216812-tkmhsf7u29aqr9lca8u9ni1kbp59m2fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugamobile.santapocket.stg",
+            "certificate_hash": "8299863fb9c864fbff8d9411f0ef64fa30c725e1"
+          }
+        },
+        {
+          "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPwrIQ-o5woOPt7YhEyBpM4yAAXE72-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808197216812-o0u2pprt1011av121jrjlik45hk2ipf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808197216812-a44vqte8nn6b5ddgl84r1mb52hvtldvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "re",
+                "app_store_id": "253252"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

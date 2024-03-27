@@ -1,0 +1,22 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_void_async
+    - unawaited_futures
+    - unnecessary_await_in_return
+
+analyzer:
+  exclude:
+    - '**/*.g.dart'
+    - 'lib/config/*.dart'
+    - 'lib/locator.config.dart'
+    - 'lib/locale_keys.g.dart'
+  plugins:
+    - dart_code_metrics
+
+dart_code_metrics:
+  rules:
+    - prefer-trailing-comma
+    - prefer-conditional-expressions
+    - prefer-match-file-name

@@ -1,0 +1,4 @@
+enum PersonSource {
+  contact,
+  callLog,
+}

@@ -1,0 +1,4 @@
+enum CabinetFilterTabs {
+  public,
+  private,
+}
